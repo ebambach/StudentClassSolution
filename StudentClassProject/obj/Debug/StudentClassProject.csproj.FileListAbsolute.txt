@@ -1,0 +1,7 @@
+C:\Repos\StudentClassSolution\StudentClassProject\bin\Debug\StudentClassProject.exe.config
+C:\Repos\StudentClassSolution\StudentClassProject\bin\Debug\StudentClassProject.exe
+C:\Repos\StudentClassSolution\StudentClassProject\bin\Debug\StudentClassProject.pdb
+C:\Repos\StudentClassSolution\StudentClassProject\obj\Debug\StudentClassProject.csprojResolveAssemblyReference.cache
+C:\Repos\StudentClassSolution\StudentClassProject\obj\Debug\StudentClassProject.csproj.CoreCompileInputs.cache
+C:\Repos\StudentClassSolution\StudentClassProject\obj\Debug\StudentClassProject.exe
+C:\Repos\StudentClassSolution\StudentClassProject\obj\Debug\StudentClassProject.pdb
